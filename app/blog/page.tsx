@@ -18,23 +18,21 @@ export default function BlogPage() {
         <CardHeader className="flex gap-3">
           <div className="flex flex-col">
             <p className="text-md">WordPress</p>
-            <p className="text-small text-default-500">
-              https://wordpress.tpe12thmayor2025to2038.com/
-            </p>
+            <p className="text-small text-default-500">Vultr</p>
           </div>
         </CardHeader>
         <Divider />
         <CardBody>
-          <p>2025年至2038年紀錄</p>
+          <p>wordpress.tpe12thmayor2025to2038.com</p>
         </CardBody>
         <Divider />
         <CardFooter>
           <Link
             isExternal
             showAnchorIcon
-            href="https://wordpress.tpe12thmayor2025to2038.com/"
+            href="https://wordpress.tpe12thmayor2025to2038.com"
           >
-            星空下微風輕拂黃光閃耀的世界
+            WordPress
           </Link>
         </CardFooter>
         <Image
@@ -49,23 +47,21 @@ export default function BlogPage() {
         <CardHeader className="flex gap-3">
           <div className="flex flex-col">
             <p className="text-md">Joomla</p>
-            <p className="text-small text-default-500">
-              https://joolma.tpe12thmayor2025to2038.com/
-            </p>
+            <p className="text-small text-default-500">Vultr</p>
           </div>
         </CardHeader>
         <Divider />
         <CardBody>
-          <p>2025年至2038年紀錄</p>
+          <p>joolma.tpe12thmayor2025to2038.com</p>
         </CardBody>
         <Divider />
         <CardFooter>
           <Link
             isExternal
             showAnchorIcon
-            href="https://joolma.tpe12thmayor2025to2038.com/"
+            href="https://joolma.tpe12thmayor2025to2038.com"
           >
-            星空下微風輕拂黃光閃耀的世界
+            Joomla
           </Link>
         </CardFooter>
         <Image
@@ -80,23 +76,21 @@ export default function BlogPage() {
         <CardHeader className="flex gap-3">
           <div className="flex flex-col">
             <p className="text-md">Drupal</p>
-            <p className="text-small text-default-500">
-              https://drupal.tpe12thmayor2025to2038.com/
-            </p>
+            <p className="text-small text-default-500">Vultr</p>
           </div>
         </CardHeader>
         <Divider />
         <CardBody>
-          <p>2025年至2038年紀錄</p>
+          <p>drupal.tpe12thmayor2025to2038.com</p>
         </CardBody>
         <Divider />
         <CardFooter>
           <Link
             isExternal
             showAnchorIcon
-            href="https://drupal.tpe12thmayor2025to2038.com/"
+            href="https://drupal.tpe12thmayor2025to2038.com"
           >
-            星空下微風輕拂黃光閃耀的世界
+            Drupal
           </Link>
         </CardFooter>
         <Image
@@ -104,6 +98,35 @@ export default function BlogPage() {
           height={333}
           radius="sm"
           src="/images/Screenshot 2025-08-26 at 23-54-08 關於 星空下微風輕拂黃光閃耀的世界.png"
+          width={333}
+        />
+      </Card>
+      <Card className="max-w-[400px]">
+        <CardHeader className="flex gap-3">
+          <div className="flex flex-col">
+            <p className="text-md">Ghost</p>
+            <p className="text-small text-default-500">DigitalPress</p>
+          </div>
+        </CardHeader>
+        <Divider />
+        <CardBody>
+          <p>ghost.tpe12thmayor2025to2038.com</p>
+        </CardBody>
+        <Divider />
+        <CardFooter>
+          <Link
+            isExternal
+            showAnchorIcon
+            href="https://ghost.tpe12thmayor2025to2038.com/"
+          >
+            Ghost
+          </Link>
+        </CardFooter>
+        <Image
+          alt="Drupal"
+          height={333}
+          radius="sm"
+          src="/images/Screenshot 2025-08-27 at 00-37-13 關於.png"
           width={333}
         />
       </Card>
