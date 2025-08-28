@@ -11,15 +11,15 @@ export default function Home() {
   return (
     <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
       <div className="inline-block max-w-xl text-center justify-center">
-        <span className={title()}>黃&nbsp;</span>
-        <span className={title({ color: "violet" })}>鋒兄&nbsp;</span>
+        <span className={title()}>&nbsp;</span>
+        <span className={title({ color: "violet" })}>&nbsp;</span>
         <br />
         <span className={title()}>
-          第12屆台北市長候選人
+          第12屆
           <br />
-          第12屆台北市代理市長
+          第12屆
           <br />
-          第13屆台北市長候選人
+          第13屆
         </span>
         <div className={subtitle({ class: "mt-4" })}>
           第8屆→高考三級資訊處理榜首
@@ -28,9 +28,9 @@ export default function Home() {
           <br />
           第10屆→……
           <br />
-          第11屆→台北市副市長→第12屆台北市長候選人
+          第11屆→台北市副市長→第12屆
           <br />
-          第12屆→台北市副市長→第12屆台北市代理市長→第13屆台北市長候選人
+          第12屆→台北市副市長→第12屆台北市代理市長→第13屆
         </div>
       </div>
 
