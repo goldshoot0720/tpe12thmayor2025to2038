@@ -15,22 +15,22 @@ export default function Home() {
         <span className={title({ color: "violet" })}>&nbsp;</span>
         <br />
         <span className={title()}>
-          第12屆
+          第11屆
           <br />
           第12屆
           <br />
           第13屆
         </span>
         <div className={subtitle({ class: "mt-4" })}>
-          第8屆→高考三級資訊處理榜首
+          第8屆
           <br />
-          第9屆→……
+          第9屆
           <br />
-          第10屆→……
+          第10屆
           <br />
-          第11屆→台北市副市長→第12屆
+          第11屆
           <br />
-          第12屆→台北市副市長→第12屆→第13屆
+          第12屆
         </div>
       </div>
 
