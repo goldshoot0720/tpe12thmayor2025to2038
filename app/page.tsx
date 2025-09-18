@@ -15,6 +15,7 @@ export default function Home() {
         <span className={title({ color: "violet" })}>&nbsp;</span>
         <br />
         <span className={title()}>
+<<<<<<< HEAD
           第11屆
           <br />
           第12屆
@@ -31,6 +32,15 @@ export default function Home() {
           第11屆
           <br />
           第12屆
+=======
+          歡迎來到星空下微風輕拂黃光閃耀的世界
+        </span>
+        <div className={subtitle({ class: "mt-4" })}>
+          這裡是星空下微風輕拂黃光閃耀的世界分支選擇
+          <br />
+          繼任網站叫做鋒兄塗哥公關資訊
+          <br />
+>>>>>>> 077e5bf (20250919 v2)
         </div>
       </div>
 

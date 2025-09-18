@@ -14,6 +14,11 @@ export default function BlogPage() {
   return (
     <div>
       <h1 className={title()}>Blog</h1>
+<<<<<<< HEAD
+=======
+
+      {/* WordPress */}
+>>>>>>> 077e5bf (20250919 v2)
       <Card className="max-w-[400px]">
         <CardHeader className="flex gap-3">
           <div className="flex flex-col">
@@ -23,6 +28,7 @@ export default function BlogPage() {
         </CardHeader>
         <Divider />
         <CardBody>
+<<<<<<< HEAD
           <p>wordpress.tpe12thmayor2025to2038.com</p>
         </CardBody>
         <Divider />
@@ -72,15 +78,33 @@ export default function BlogPage() {
           width={333}
         />
       </Card>
+=======
+          <p>www.tpe12thmayor2038from2025.com</p>
+        </CardBody>
+        <Divider />
+        <CardFooter>
+          <Link isExternal showAnchorIcon href="https://www.tpe12thmayor2038from2025.com/">
+            WordPress
+          </Link>
+        </CardFooter>
+        <Image alt="WordPress" height={333} radius="sm" src="" width={333} />
+      </Card>
+
+      {/* Drupal */}
+>>>>>>> 077e5bf (20250919 v2)
       <Card className="max-w-[400px]">
         <CardHeader className="flex gap-3">
           <div className="flex flex-col">
             <p className="text-md">Drupal</p>
+<<<<<<< HEAD
             <p className="text-small text-default-500">Vultr</p>
+=======
+>>>>>>> 077e5bf (20250919 v2)
           </div>
         </CardHeader>
         <Divider />
         <CardBody>
+<<<<<<< HEAD
           <p>drupal.tpe12thmayor2025to2038.com</p>
         </CardBody>
         <Divider />
@@ -101,6 +125,20 @@ export default function BlogPage() {
           width={333}
         />
       </Card>
+=======
+          <p>www.tpe12thmayor2025to2038.com</p>
+        </CardBody>
+        <Divider />
+        <CardFooter>
+          <Link isExternal showAnchorIcon href="https://www.tpe12thmayor2025to2038.com/">
+            Drupal
+          </Link>
+        </CardFooter>
+        <Image alt="Drupal" height={333} radius="sm" src="" width={333} />
+      </Card>
+
+      {/* Ghost */}
+>>>>>>> 077e5bf (20250919 v2)
       <Card className="max-w-[400px]">
         <CardHeader className="flex gap-3">
           <div className="flex flex-col">
@@ -114,6 +152,7 @@ export default function BlogPage() {
         </CardBody>
         <Divider />
         <CardFooter>
+<<<<<<< HEAD
           <Link
             isExternal
             showAnchorIcon
@@ -129,6 +168,13 @@ export default function BlogPage() {
           src="/images/Screenshot 2025-08-27 at 00-37-13 關於.png"
           width={333}
         />
+=======
+          <Link isExternal showAnchorIcon href="https://tpe12thmayor2025to2038.digitalpress.blog">
+            Ghost
+          </Link>
+        </CardFooter>
+        <Image alt="Ghost" height={333} radius="sm" src="" width={333} />
+>>>>>>> 077e5bf (20250919 v2)
       </Card>
     </div>
   );
